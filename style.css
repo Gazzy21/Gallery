@@ -3,11 +3,11 @@ background-image: url('https://picsum.photos/1300/500');
 }
 
 .mynav {
-    border-bottom: 2px solid black;
+    border-bottom: 2px solid white;
 }
 
 .myborder {
-    border: 2px solid black;
+    border: 2px solid white;
 }
 
 @keyframes move-background {
